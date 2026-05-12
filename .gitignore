@@ -1,0 +1,23 @@
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+.venv/
+phidget_venv/
+phidget_env/
+
+# Runtime/generated files
+*.log
+preflight_report.txt
+dll_check.txt
+status.json
+
+# OS/editor files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary deployment folders
+_deploy_test/
